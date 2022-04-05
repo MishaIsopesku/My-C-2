@@ -1,0 +1,15 @@
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\bin\Debug\net6.0\Lab2.exe
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\bin\Debug\net6.0\Lab2.deps.json
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\bin\Debug\net6.0\Lab2.runtimeconfig.json
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\bin\Debug\net6.0\Lab2.dll
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\bin\Debug\net6.0\ref\Lab2.dll
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\bin\Debug\net6.0\Lab2.pdb
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.dll
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\ref\Lab2.dll
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.pdb
+C:\Users\solom\source\repos\Lab2-1\Lab2-1\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
